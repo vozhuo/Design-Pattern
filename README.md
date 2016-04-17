@@ -1,2 +1,2 @@
 # Design-Pattern
-SDUST homework for Java Design Pattern
+SDUST schoolwork for Java Design Pattern
