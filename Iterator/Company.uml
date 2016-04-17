@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>Company</OriginalElement>
+  <nodes>
+    <node x="228.49999999999997" y="-0.5">Company.DepartmentComponent</node>
+    <node x="587.5" y="263.5">Company.Chairman</node>
+    <node x="238.49999999999997" y="217.5">Company.Department</node>
+    <node x="26.5" y="240.5">Company.DepartmentBranch</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Company.Department" target="Company.DepartmentComponent">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="Company.Chairman" target="Company.DepartmentComponent">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="Company.DepartmentBranch" target="Company.DepartmentComponent">
+      <point x="0.0" y="-49.5" />
+      <point x="123.5" y="193.0" />
+      <point x="273.125" y="193.0" />
+      <point x="-130.875" y="84.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="456.0" y="158.0" />
+  <SelectedNodes>
+    <node>Company.DepartmentComponent</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
